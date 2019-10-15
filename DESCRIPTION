@@ -5,7 +5,7 @@ Date: 2018-11-28
 Author: Marek Walesiak <marek.walesiak@ue.wroc.pl>, Andrzej Dudek <andrzej.dudek@ue.wroc.pl>
 Maintainer: Andrzej Dudek <andrzej.dudek@ue.wroc.pl>
 Depends: R (>= 3.5.0), cluster, MASS
-Imports: ade4, e1071, rgl, R2HTML, modeest, grDevices, graphics, stats,
+Imports: ade4, e1071, R2HTML, modeest, grDevices, graphics, stats,
         utils
 Suggests: mlbench, testthat
 Description: Distance measures (GDM1, GDM2,	Sokal-Michener, Bray-Curtis, for symbolic interval-valued data), cluster quality indices (Calinski-Harabasz, Baker-Hubert, Hubert-Levine, Silhouette, Krzanowski-Lai, Hartigan, Gap,	Davies-Bouldin),	data normalization formulas (metric data, interval-valued symbolic data), data generation (typical and non-typical data), HINoV method,	replication analysis, linear ordering methods, spectral clustering, agreement indices between two partitions, plot functions (for categorical and symbolic interval-valued data). 
