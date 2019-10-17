@@ -19,4 +19,4 @@ importFrom("stats", "as.dist", "as.hclust", "cutree", "dist", "hclust",
            "kmeans", "mad", "median", "na.omit", "rnorm", "runif",
            "sd", "var")
 importFrom("utils", "read.csv", "read.csv2", "write.table")
-useDynLib(clusterSim)
+useDynLib(clusterSimTrc)
